@@ -1,0 +1,15 @@
+c:\users\vladk.desktop-meq9aes\Documents\Projects\Everyday\Everyday\bin\Debug\Everyday.exe.config
+c:\users\vladk.desktop-meq9aes\Documents\Projects\Everyday\Everyday\bin\Debug\Everyday.exe
+c:\users\vladk.desktop-meq9aes\Documents\Projects\Everyday\Everyday\bin\Debug\Everyday.pdb
+c:\users\vladk.desktop-meq9aes\Documents\Projects\Everyday\Everyday\obj\Debug\Everyday.csprojResolveAssemblyReference.cache
+c:\users\vladk.desktop-meq9aes\Documents\Projects\Everyday\Everyday\obj\Debug\Everyday.Form1.resources
+c:\users\vladk.desktop-meq9aes\Documents\Projects\Everyday\Everyday\obj\Debug\Everyday.Properties.Resources.resources
+c:\users\vladk.desktop-meq9aes\Documents\Projects\Everyday\Everyday\obj\Debug\Everyday.csproj.GenerateResource.Cache
+c:\users\vladk.desktop-meq9aes\Documents\Projects\Everyday\Everyday\obj\Debug\Everyday.exe
+c:\users\vladk.desktop-meq9aes\Documents\Projects\Everyday\Everyday\obj\Debug\Everyday.pdb
+C:\Users\vladk.DESKTOP-MEQ9AES\Documents\Projects\Everyday\Everyday\bin\Debug\Interop.WMPLib.dll
+C:\Users\vladk.DESKTOP-MEQ9AES\Documents\Projects\Everyday\Everyday\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vladk.DESKTOP-MEQ9AES\Documents\Projects\Everyday\Everyday\obj\Debug\Interop.WMPLib.dll
+C:\Users\vladk.DESKTOP-MEQ9AES\Documents\Projects\Everyday\Everyday\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vladk.DESKTOP-MEQ9AES\Documents\Projects\Everyday\Everyday\obj\Debug\Everyday.csproj.ResolveComReference.cache
+C:\Users\vladk.DESKTOP-MEQ9AES\Documents\Projects\Everyday\Everyday\obj\Debug\Everyday.AlarmForm.resources
