@@ -17,6 +17,13 @@ namespace Everyday
         {
             var alarm = new AlarmForm();
             alarm.Show();
+            
+        }
+
+        private void BtnShowCalculatorClick(object sender, EventArgs e)
+        {
+            var calculator = new Calculator();
+            calculator.Show();
         }
     }
 }
